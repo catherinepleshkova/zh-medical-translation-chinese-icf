@@ -27,8 +27,7 @@ This repository showcases a specialized medical translation and localization pet
 ├── README.md                 # Case study presentation and commentary (Russian)
 ├── README_EN.md              # Case study presentation and commentary (English)
 ├── source_and_target.md      # Clean bilingual corpus for side-by-side review
-├── glossary.csv              # Structured termbase in CSV format (CAT-tool ready)
-└── LICENSE                   # Creative Commons Attribution 4.0 International (CC BY 4.0)
+└── glossary.md              # Structured termbase in CSV format (CAT-tool ready)
 ```
 
 ---
@@ -67,7 +66,7 @@ This repository showcases a specialized medical translation and localization pet
 
 ## 📖 Terminology Glossary (Sample)
 
-The complete termbase with translator annotations and ICH GCP equivalents is available in [`glossary.csv`](glossary.csv).
+The complete termbase with translator annotations and ICH GCP equivalents is available in [`glossary.md`]().
 
 | Chinese Term (ZH) | Pinyin | Russian Target (RU) | ICH GCP Equivalent (EN) |
 | :--- | :--- | :--- | :--- |
