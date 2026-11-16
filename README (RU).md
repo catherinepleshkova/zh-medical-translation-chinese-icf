@@ -5,7 +5,7 @@
 ![Document Type](https://img.shields.io/badge/Document-Informed%20Consent%20Form%20(ICF)-d97706)
 ![Standard](https://img.shields.io/badge/Standard-ICH%20GCP%20%7C%20Plain%20Language-4f46e5)
 
-**[🇷🇺 Русская версия (Russian Version)]()** | **[🇬🇧 English Version]()**
+**[🇷🇺 Русская версия (Russian Version)](https://github.com/catherinepleshkova/zh-medical-translation-chinese-icf/blob/main/README%20(RU).md)** | **[🇬🇧 English Version]()**
 
 ---
 
