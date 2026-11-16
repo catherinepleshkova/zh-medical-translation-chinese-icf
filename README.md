@@ -66,7 +66,7 @@ This repository showcases a specialized medical translation and localization pet
 
 ## 📖 Terminology Glossary (Sample)
 
-The complete termbase with translator annotations and ICH GCP equivalents is available in [`glossary.md`]().
+The complete termbase with translator annotations and ICH GCP equivalents is available in [`glossary.md`](https://github.com/catherinepleshkova/zh-medical-translation-chinese-icf/blob/main/GLOSSARY.md).
 
 | Chinese Term (ZH) | Pinyin | Russian Target (RU) | ICH GCP Equivalent (EN) |
 | :--- | :--- | :--- | :--- |
